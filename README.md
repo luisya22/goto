@@ -7,4 +7,4 @@ A simple shell function to manage and navigate to custom directory mappings.
 1. Clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/goto.git
+git clone https://github.com/luisya22/goto.git
