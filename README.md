@@ -24,11 +24,12 @@ source ~/.bashrc
 ```
 
 ## Usage:
-- Add a new mapping: goto add <name> <path>
-- Remove a mapping: goto remove <name>
-- Update a mapping: goto update <name> <new_path>
-- List all mappings: goto list
-- Navigate to a mapping: goto <name>
+- Add a new mapping: `goto add <entry_name> <folder_path>`
+  - You may also use `$(pwd)` if you are currently in the folder you want to add: `goto add <entry_name> $(pwd)`
+- Remove a mapping: `goto remove <entry_name>`
+- Update a mapping: `goto update <entry_name> <new_path>`
+- List all mappings: `goto list`
+- Navigate to a mapping: `goto <entry_name>`
 
 ## Autocompletion
 The goto function supports autocompletion for the names of your custom mappings.
