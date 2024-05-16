@@ -36,8 +36,8 @@ The goto function supports autocompletion for the names of your custom mappings.
 
 ## Example
 ```sh
-goto add projects ~/Documents/Projects
+goto add projects ~/Documents/Projects/MyFavoriteProject/Inside/SuperInside
 goto projects
 ```
 
-This will navigate to ~/Documents/Projects.
+This will navigate to ~/Documents/Projects/MyFavoriteProject/Inside/SuperInside.
