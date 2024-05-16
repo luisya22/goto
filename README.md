@@ -14,7 +14,7 @@ git clone https://github.com/luisya22/goto.git
 ```sh
 echo "source /path/to/goto/goto.sh" >> ~/.bashrc
 # Replace /path/to/goto with the actual absolute path where the goto repository is cloned 
-# For example, if it is at home: ~/goto
+# For example, if it is at home: ~/goto/goto.sh
 ```
 
 
